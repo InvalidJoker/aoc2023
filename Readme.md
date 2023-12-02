@@ -12,6 +12,3 @@
 ```txt
 WTFPL
 ```
-
-Part one: 56397
-Part two: 55701
