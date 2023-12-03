@@ -3,8 +3,6 @@ use shared::read_input;
 
 pub mod helper;
 
-pub struct Day01;
-
 fn part_one(input: &str) -> u32 {
     let mut sum = 0;
     for line in input.lines() {
